@@ -1,1 +1,0 @@
-import{d as s,p as t,c as a,a as n,t as o,u as c,o as r,_ as i}from"./index-BJjZQGH7.js";const p={class:"ingredient-recipes"},_=s({__name:"IngredientRecipesView",setup(d){const e=t().params.name;return(m,l)=>(r(),a("div",p,[n("h2",null,"Recipes with: "+o(c(e)),1)]))}}),g=i(_,[["__scopeId","data-v-a51e3e89"]]);export{g as default};
